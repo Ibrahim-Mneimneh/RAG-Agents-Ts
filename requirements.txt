@@ -1,3 +1,4 @@
 langgraph
 ipython
-langgraphgro
+dotenv
+langchain_groq
